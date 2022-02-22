@@ -18,7 +18,7 @@ class TankmenRunning extends FlxSprite
 			destroy()
 
 		if(curAnim('Run'));
-		    playAnim('RUn')
+		    playAnim('Run')
 		   
 	}
 }
